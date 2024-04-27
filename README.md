@@ -1,2 +1,2 @@
-# QGIS_TCI_SSI_Model
-This model using to calculate Tourism Climate Index and New Summer Index.
+# QGIS_Model
+Models can be using to calculate Tourism Climate Index, Heat Index and New Summer Index.
