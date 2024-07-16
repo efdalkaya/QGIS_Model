@@ -1,0 +1,923 @@
+<!DOCTYPE model>
+<Option type="Map">
+  <Option name="children" type="Map">
+    <Option name="native:modelerrastercalc_1" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:modelerrastercalc" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="426.6610671936759" name="component_pos_x" type="double"/>
+        <Option value="344.30335968379444" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="CIA" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="92" name="component_pos_x" type="double"/>
+      <Option value="364" name="component_pos_y" type="double"/>
+      <Option value="90" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:modelerrastercalc_1" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="CELL_SIZE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+        <Option name="CRS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+        <Option name="EXPRESSION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="&quot;A@1&quot;" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="EXTENT" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+        <Option name="LAYERS" type="List">
+          <Option type="Map">
+            <Option value="cia" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:modelerrastercalc_2" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:modelerrastercalc" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="631.4057971014493" name="component_pos_x" type="double"/>
+        <Option value="346.03359683794463" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="CID" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="212" name="component_pos_x" type="double"/>
+      <Option value="364" name="component_pos_y" type="double"/>
+      <Option value="90" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:modelerrastercalc_2" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="CELL_SIZE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+        <Option name="CRS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+        <Option name="EXPRESSION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="&quot;A@1&quot;" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="EXTENT" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+        <Option name="LAYERS" type="List">
+          <Option type="Map">
+            <Option value="cid" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:modelerrastercalc_3" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:modelerrastercalc" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="601.9917654808959" name="component_pos_x" type="double"/>
+        <Option value="324.6940052700922" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="P" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="322" name="component_pos_x" type="double"/>
+      <Option value="364" name="component_pos_y" type="double"/>
+      <Option value="70" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:modelerrastercalc_3" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="CELL_SIZE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+        <Option name="CRS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+        <Option name="EXPRESSION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="&quot;A@1&quot;" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="EXTENT" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+        <Option name="LAYERS" type="List">
+          <Option type="Map">
+            <Option value="p" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:modelerrastercalc_4" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:modelerrastercalc" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="593.4782608695652" name="component_pos_x" type="double"/>
+        <Option value="324.03491436100137" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="S" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="412" name="component_pos_x" type="double"/>
+      <Option value="364" name="component_pos_y" type="double"/>
+      <Option value="70" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:modelerrastercalc_4" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="CELL_SIZE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+        <Option name="CRS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+        <Option name="EXPRESSION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="&quot;A@1&quot;" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="EXTENT" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+        <Option name="LAYERS" type="List">
+          <Option type="Map">
+            <Option value="s" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:modelerrastercalc_5" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:modelerrastercalc" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="691.2516469038209" name="component_pos_x" type="double"/>
+        <Option value="322.84255599472993" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="W" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="502" name="component_pos_x" type="double"/>
+      <Option value="364" name="component_pos_y" type="double"/>
+      <Option value="70" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:modelerrastercalc_5" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="CELL_SIZE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+        <Option name="CRS" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+        <Option name="EXPRESSION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="&quot;A@1&quot;" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="EXTENT" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option name="static_value" type="invalid"/>
+          </Option>
+        </Option>
+        <Option name="LAYERS" type="List">
+          <Option type="Map">
+            <Option value="w" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:modelerrastercalc_6" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:modelerrastercalc" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="491.53162055335974" name="component_pos_x" type="double"/>
+        <Option value="462.9446640316206" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="TCI" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="357" name="component_pos_x" type="double"/>
+      <Option value="484" name="component_pos_y" type="double"/>
+      <Option value="200" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:modelerrastercalc_6" name="id" type="QString"/>
+      <Option name="outputs"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="CELL_SIZE" type="List">
+          <Option type="Map">
+            <Option value="output_cell_size" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="CRS" type="List">
+          <Option type="Map">
+            <Option value="output_crs" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="EXPRESSION" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="2 *  ( ( 4  *  &quot;B@1&quot;) +  &quot;A@1&quot;   +  (2 * &quot;C@1&quot;)  +  (2 * &quot;D@1&quot;)  + &quot;E@1&quot;) " name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="EXTENT" type="List">
+          <Option type="Map">
+            <Option value="output_extent_area" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="LAYERS" type="List">
+          <Option type="Map">
+            <Option value="native:modelerrastercalc_1" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+          <Option type="Map">
+            <Option value="native:modelerrastercalc_2" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+          <Option type="Map">
+            <Option value="native:modelerrastercalc_3" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+          <Option type="Map">
+            <Option value="native:modelerrastercalc_4" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+          <Option type="Map">
+            <Option value="native:modelerrastercalc_5" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option name="native:reclassifybytable_1" type="Map">
+      <Option value="true" name="active" type="bool"/>
+      <Option name="alg_config"/>
+      <Option value="native:reclassifybytable" name="alg_id" type="QString"/>
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="875" name="component_pos_x" type="double"/>
+        <Option value="562.9446640316206" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="Reclassify by table" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="567" name="component_pos_x" type="double"/>
+      <Option value="574" name="component_pos_y" type="double"/>
+      <Option value="200" name="component_width" type="double"/>
+      <Option name="dependencies"/>
+      <Option value="native:reclassifybytable_1" name="id" type="QString"/>
+      <Option name="outputs" type="Map">
+        <Option name="TCI Classification" type="Map">
+          <Option value="native:reclassifybytable_1" name="child_id" type="QString"/>
+          <Option value="" name="color" type="QString"/>
+          <Option name="comment" type="Map">
+            <Option value="" name="color" type="QString"/>
+            <Option value="" name="component_description" type="QString"/>
+            <Option value="60" name="component_height" type="double"/>
+            <Option value="0" name="component_pos_x" type="double"/>
+            <Option value="0" name="component_pos_y" type="double"/>
+            <Option value="100" name="component_width" type="double"/>
+            <Option value="true" name="outputs_collapsed" type="bool"/>
+            <Option value="true" name="parameters_collapsed" type="bool"/>
+          </Option>
+          <Option value="TCI Classification" name="component_description" type="QString"/>
+          <Option value="30" name="component_height" type="double"/>
+          <Option value="567" name="component_pos_x" type="double"/>
+          <Option value="664" name="component_pos_y" type="double"/>
+          <Option value="200" name="component_width" type="double"/>
+          <Option name="default_value" type="invalid"/>
+          <Option value="false" name="mandatory" type="bool"/>
+          <Option value="TCI Classification" name="name" type="QString"/>
+          <Option value="OUTPUT" name="output_name" type="QString"/>
+          <Option value="true" name="outputs_collapsed" type="bool"/>
+          <Option value="true" name="parameters_collapsed" type="bool"/>
+        </Option>
+      </Option>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option name="params" type="Map">
+        <Option name="DATA_TYPE" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="1" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="INPUT_RASTER" type="List">
+          <Option type="Map">
+            <Option value="native:modelerrastercalc_6" name="child_id" type="QString"/>
+            <Option value="OUTPUT" name="output_name" type="QString"/>
+            <Option value="1" name="source" type="int"/>
+          </Option>
+        </Option>
+        <Option name="NODATA_FOR_MISSING" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="true" name="static_value" type="bool"/>
+          </Option>
+        </Option>
+        <Option name="NO_DATA" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="-9999" name="static_value" type="double"/>
+          </Option>
+        </Option>
+        <Option name="RANGE_BOUNDARIES" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="3" name="static_value" type="int"/>
+          </Option>
+        </Option>
+        <Option name="RASTER_BAND" type="List">
+          <Option type="Map">
+            <Option value="2" name="source" type="int"/>
+            <Option value="1" name="static_value" type="QString"/>
+          </Option>
+        </Option>
+        <Option name="TABLE" type="List">
+          <Option type="Map">
+            <Option value="reclassification_table" name="parameter_name" type="QString"/>
+            <Option value="0" name="source" type="int"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+  </Option>
+  <Option name="designerParameterValues" type="Map">
+    <Option value="CIA_Nis_60caf527_3376_4b15_bd3e_3f2aa34b6ba6" name="cia" type="QString"/>
+    <Option value="CID_Nis_3eecf480_5cb5_45a1_ad7b_196dbaef77d5" name="cid" type="QString"/>
+    <Option value="75" name="output_cell_size" type="int"/>
+    <Option name="output_crs" type="QgsCoordinateReferenceSystem">
+      <spatialrefsys nativeFormat="Wkt">
+        <wkt>PROJCRS["TUREF / TM33",BASEGEOGCRS["TUREF",DATUM["Turkish National Reference Frame",ELLIPSOID["GRS 1980",6378137,298.257222101,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",5252]],CONVERSION["Gauss-Kruger CM 33E",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",33,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",1,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["northing (X)",north,ORDER[1],LENGTHUNIT["metre",1]],AXIS["easting (Y)",east,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Cadastre, engineering survey, topographic mapping (large scale)."],AREA["Türkiye (Turkey) - between 31°30'E and 34°30'E, onshore."],BBOX[35.97,31.5,42.07,34.5]],ID["EPSG",5255]]</wkt>
+        <proj4>+proj=tmerc +lat_0=0 +lon_0=33 +k=1 +x_0=500000 +y_0=0 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
+        <srsid>28067</srsid>
+        <srid>5255</srid>
+        <authid>EPSG:5255</authid>
+        <description>TUREF / TM33</description>
+        <projectionacronym>tmerc</projectionacronym>
+        <ellipsoidacronym>EPSG:7019</ellipsoidacronym>
+        <geographicflag>false</geographicflag>
+      </spatialrefsys>
+    </Option>
+    <Option value="Mersin_344ec9eb_2446_4289_b38e_4b747a341b27" name="output_extent_area" type="QString"/>
+    <Option value="R_Nis_95c21d71_b293_4e27_ac82_703de3841500" name="p" type="QString"/>
+    <Option value="S_Nis_13f8c470_d93c_4ae4_886f_e28e643f7caa" name="s" type="QString"/>
+    <Option name="tci_classification" type="QgsProcessingOutputLayerDefinition">
+      <Option type="Map">
+        <Option name="create_options" type="Map">
+          <Option value="windows-1254" name="fileEncoding" type="QString"/>
+        </Option>
+        <Option name="sink" type="Map">
+          <Option value="true" name="active" type="bool"/>
+          <Option value="1" name="type" type="int"/>
+          <Option value="C:/Users/ek/Desktop/tci_nis.tif" name="val" type="QString"/>
+        </Option>
+      </Option>
+    </Option>
+    <Option value="W_Nis_16157253_4806_42e8_b37c_648332d18704" name="w" type="QString"/>
+  </Option>
+  <Option name="groupBoxes" type="List">
+    <Option type="Map">
+      <Option value="222,72,26,128" name="color" type="QString"/>
+      <Option value="User Input (Optional)" name="component_description" type="QString"/>
+      <Option value="180" name="component_height" type="double"/>
+      <Option value="697" name="component_pos_x" type="double"/>
+      <Option value="169" name="component_pos_y" type="double"/>
+      <Option value="400" name="component_width" type="double"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option value="{4172c167-9a9e-450e-a5d7-29bf0bcceaa9}" name="uuid" type="QString"/>
+    </Option>
+    <Option type="Map">
+      <Option value="101,209,157,255" name="color" type="QString"/>
+      <Option value="Tourism Climate Index Parameters" name="component_description" type="QString"/>
+      <Option value="240" name="component_height" type="double"/>
+      <Option value="317" name="component_pos_x" type="double"/>
+      <Option value="199" name="component_pos_y" type="double"/>
+      <Option value="300" name="component_width" type="double"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+      <Option value="{9ff5079c-edcd-4b5d-a22f-132b1944b832}" name="uuid" type="QString"/>
+    </Option>
+  </Option>
+  <Option name="help" type="Map">
+    <Option value="Dr. Efdal KAYA" name="ALG_CREATOR" type="QString"/>
+    <Option value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'Tahoma'; font-size:9pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>This tool calculate tourism climate index map.&lt;/p>&lt;/body>&lt;/html>" name="ALG_DESC" type="QString"/>
+    <Option value="" name="ALG_HELP_CREATOR" type="QString"/>
+    <Option value="0.1 version" name="ALG_VERSION" type="QString"/>
+    <Option value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'Tahoma'; font-size:9pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>&lt;br />&lt;/p>&lt;/body>&lt;/html>" name="EXAMPLES" type="QString"/>
+    <Option value="Daily thermal comfort index (° C)" name="cia" type="QString"/>
+    <Option value="Index of thermal comfort during the day (° C)" name="cid" type="QString"/>
+    <Option value="Output raster data cell size" name="output_cell_size" type="QString"/>
+    <Option value="Output raster data coordinate reference system (CRS)" name="output_crs" type="QString"/>
+    <Option value="Output study area" name="output_extent_area" type="QString"/>
+    <Option value="Total monthly rainfall (mm)" name="p" type="QString"/>
+    <Option value="Tourism climate index classification value." name="reclassification_table" type="QString"/>
+    <Option value="Sunshine (h/day) " name="s" type="QString"/>
+    <Option value="Tourism climate index classification map." name="tci_classification" type="QString"/>
+    <Option value="Wind speed (km/h)" name="w" type="QString"/>
+  </Option>
+  <Option value="Version2" name="internal_version" type="QString"/>
+  <Option name="modelVariables"/>
+  <Option value="" name="model_group" type="QString"/>
+  <Option value="TCI" name="model_name" type="QString"/>
+  <Option value="" name="outputGroup" type="QString"/>
+  <Option name="outputOrder"/>
+  <Option name="parameterDefinitions" type="Map">
+    <Option name="cia" type="Map">
+      <Option name="data_types" type="List">
+        <Option value="3" type="int"/>
+      </Option>
+      <Option name="default" type="invalid"/>
+      <Option name="defaultGui" type="invalid"/>
+      <Option value="CIA" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option value="" name="help" type="QString"/>
+      <Option name="metadata"/>
+      <Option value="cia" name="name" type="QString"/>
+      <Option value="layer" name="parameter_type" type="QString"/>
+    </Option>
+    <Option name="cid" type="Map">
+      <Option name="data_types" type="List">
+        <Option value="3" type="int"/>
+      </Option>
+      <Option name="default" type="invalid"/>
+      <Option name="defaultGui" type="invalid"/>
+      <Option value="CID" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option value="" name="help" type="QString"/>
+      <Option name="metadata"/>
+      <Option value="cid" name="name" type="QString"/>
+      <Option value="layer" name="parameter_type" type="QString"/>
+    </Option>
+    <Option name="output_cell_size" type="Map">
+      <Option value="0" name="data_type" type="int"/>
+      <Option name="default" type="invalid"/>
+      <Option name="defaultGui" type="invalid"/>
+      <Option value="Output Cell Size" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option value="" name="help" type="QString"/>
+      <Option value="1.7976931348623157e+308" name="max" type="double"/>
+      <Option name="metadata"/>
+      <Option value="1" name="min" type="double"/>
+      <Option value="output_cell_size" name="name" type="QString"/>
+      <Option value="number" name="parameter_type" type="QString"/>
+    </Option>
+    <Option name="output_crs" type="Map">
+      <Option value="EPSG:4326" name="default" type="QString"/>
+      <Option name="defaultGui" type="invalid"/>
+      <Option value="Output CRS" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option value="" name="help" type="QString"/>
+      <Option name="metadata"/>
+      <Option value="output_crs" name="name" type="QString"/>
+      <Option value="crs" name="parameter_type" type="QString"/>
+    </Option>
+    <Option name="output_extent_area" type="Map">
+      <Option name="data_types" type="List">
+        <Option value="2" type="int"/>
+      </Option>
+      <Option name="default" type="invalid"/>
+      <Option name="defaultGui" type="invalid"/>
+      <Option value="Output Extent Area" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option value="" name="help" type="QString"/>
+      <Option name="metadata"/>
+      <Option value="output_extent_area" name="name" type="QString"/>
+      <Option value="layer" name="parameter_type" type="QString"/>
+    </Option>
+    <Option name="p" type="Map">
+      <Option name="data_types" type="List">
+        <Option value="3" type="int"/>
+      </Option>
+      <Option name="default" type="invalid"/>
+      <Option name="defaultGui" type="invalid"/>
+      <Option value="P" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option value="" name="help" type="QString"/>
+      <Option name="metadata"/>
+      <Option value="p" name="name" type="QString"/>
+      <Option value="layer" name="parameter_type" type="QString"/>
+    </Option>
+    <Option name="reclassification_table" type="Map">
+      <Option name="default" type="List">
+        <Option value="90" type="QString"/>
+        <Option value="100" type="QString"/>
+        <Option value="9" type="QString"/>
+        <Option value="80" type="QString"/>
+        <Option value="89" type="QString"/>
+        <Option value="8" type="QString"/>
+        <Option value="70" type="QString"/>
+        <Option value="79" type="QString"/>
+        <Option value="7" type="QString"/>
+        <Option value="60" type="QString"/>
+        <Option value="69" type="QString"/>
+        <Option value="6" type="QString"/>
+        <Option value="50" type="QString"/>
+        <Option value="59" type="QString"/>
+        <Option value="5" type="QString"/>
+        <Option value="40" type="QString"/>
+        <Option value="49" type="QString"/>
+        <Option value="4" type="QString"/>
+        <Option value="30" type="QString"/>
+        <Option value="39" type="QString"/>
+        <Option value="3" type="QString"/>
+        <Option value="20" type="QString"/>
+        <Option value="29" type="QString"/>
+        <Option value="2" type="QString"/>
+        <Option value="10" type="QString"/>
+        <Option value="19" type="QString"/>
+        <Option value="1" type="QString"/>
+        <Option value="-9" type="QString"/>
+        <Option value="9" type="QString"/>
+        <Option value="0" type="QString"/>
+        <Option value="-20" type="QString"/>
+        <Option value="-10" type="QString"/>
+        <Option value="-1" type="QString"/>
+      </Option>
+      <Option name="defaultGui" type="invalid"/>
+      <Option value="Reclassification Table" name="description" type="QString"/>
+      <Option value="false" name="fixed_number_rows" type="bool"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option name="headers" type="StringList">
+        <Option value="Min" type="QString"/>
+        <Option value="Max" type="QString"/>
+        <Option value="New Value" type="QString"/>
+      </Option>
+      <Option value="" name="help" type="QString"/>
+      <Option name="metadata"/>
+      <Option value="reclassification_table" name="name" type="QString"/>
+      <Option value="matrix" name="parameter_type" type="QString"/>
+      <Option value="1" name="rows" type="int"/>
+    </Option>
+    <Option name="s" type="Map">
+      <Option name="data_types" type="List">
+        <Option value="3" type="int"/>
+      </Option>
+      <Option name="default" type="invalid"/>
+      <Option name="defaultGui" type="invalid"/>
+      <Option value="S" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option value="" name="help" type="QString"/>
+      <Option name="metadata"/>
+      <Option value="s" name="name" type="QString"/>
+      <Option value="layer" name="parameter_type" type="QString"/>
+    </Option>
+    <Option name="tci_classification" type="Map">
+      <Option value="true" name="create_by_default" type="bool"/>
+      <Option name="default" type="invalid"/>
+      <Option name="defaultGui" type="invalid"/>
+      <Option value="TCI Classification" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option value="" name="help" type="QString"/>
+      <Option name="metadata" type="Map">
+        <Option value="native:reclassifybytable_1" name="_modelChildId" type="QString"/>
+        <Option value="TCI Classification" name="_modelChildOutputName" type="QString"/>
+        <Option value="native" name="_modelChildProvider" type="QString"/>
+      </Option>
+      <Option value="tci_classification" name="name" type="QString"/>
+      <Option value="rasterDestination" name="parameter_type" type="QString"/>
+      <Option value="true" name="supports_non_file_outputs" type="bool"/>
+    </Option>
+    <Option name="w" type="Map">
+      <Option name="data_types" type="List">
+        <Option value="3" type="int"/>
+      </Option>
+      <Option name="default" type="invalid"/>
+      <Option name="defaultGui" type="invalid"/>
+      <Option value="W" name="description" type="QString"/>
+      <Option value="0" name="flags" type="int"/>
+      <Option value="" name="help" type="QString"/>
+      <Option name="metadata"/>
+      <Option value="w" name="name" type="QString"/>
+      <Option value="layer" name="parameter_type" type="QString"/>
+    </Option>
+  </Option>
+  <Option name="parameterOrder" type="StringList">
+    <Option value="cid" type="QString"/>
+    <Option value="cia" type="QString"/>
+    <Option value="p" type="QString"/>
+    <Option value="s" type="QString"/>
+    <Option value="w" type="QString"/>
+    <Option value="output_crs" type="QString"/>
+    <Option value="output_cell_size" type="QString"/>
+    <Option value="output_extent_area" type="QString"/>
+  </Option>
+  <Option name="parameters" type="Map">
+    <Option name="cia" type="Map">
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="Daily comfort index" name="component_description" type="QString"/>
+        <Option value="30" name="component_height" type="double"/>
+        <Option value="377" name="component_pos_x" type="double"/>
+        <Option value="124" name="component_pos_y" type="double"/>
+        <Option value="120" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="cia" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="218" name="component_pos_x" type="double"/>
+      <Option value="149" name="component_pos_y" type="double"/>
+      <Option value="90" name="component_width" type="double"/>
+      <Option value="cia" name="name" type="QString"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+    </Option>
+    <Option name="cid" type="Map">
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="Daytime comfort index" name="component_description" type="QString"/>
+        <Option value="30" name="component_height" type="double"/>
+        <Option value="377" name="component_pos_x" type="double"/>
+        <Option value="164" name="component_pos_y" type="double"/>
+        <Option value="120" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="cid" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="217" name="component_pos_x" type="double"/>
+      <Option value="184" name="component_pos_y" type="double"/>
+      <Option value="90" name="component_width" type="double"/>
+      <Option value="cid" name="name" type="QString"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+    </Option>
+    <Option name="output_cell_size" type="Map">
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="Output cell size." name="component_description" type="QString"/>
+        <Option value="30" name="component_height" type="double"/>
+        <Option value="837" name="component_pos_x" type="double"/>
+        <Option value="225" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="output_cell_size" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="607" name="component_pos_x" type="double"/>
+      <Option value="225" name="component_pos_y" type="double"/>
+      <Option value="200" name="component_width" type="double"/>
+      <Option value="output_cell_size" name="name" type="QString"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+    </Option>
+    <Option name="output_crs" type="Map">
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="Coordinate reference systems." name="component_description" type="QString"/>
+        <Option value="30" name="component_height" type="double"/>
+        <Option value="827" name="component_pos_x" type="double"/>
+        <Option value="143" name="component_pos_y" type="double"/>
+        <Option value="120" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="output_crs" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="607" name="component_pos_x" type="double"/>
+      <Option value="154" name="component_pos_y" type="double"/>
+      <Option value="200" name="component_width" type="double"/>
+      <Option value="output_crs" name="name" type="QString"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+    </Option>
+    <Option name="output_extent_area" type="Map">
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="Select output extent area" name="component_description" type="QString"/>
+        <Option value="30" name="component_height" type="double"/>
+        <Option value="822.5" name="component_pos_x" type="double"/>
+        <Option value="184" name="component_pos_y" type="double"/>
+        <Option value="131" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="output_extent_area" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="607" name="component_pos_x" type="double"/>
+      <Option value="190" name="component_pos_y" type="double"/>
+      <Option value="200" name="component_width" type="double"/>
+      <Option value="output_extent_area" name="name" type="QString"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+    </Option>
+    <Option name="p" type="Map">
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="Precipitation" name="component_description" type="QString"/>
+        <Option value="30" name="component_height" type="double"/>
+        <Option value="367" name="component_pos_x" type="double"/>
+        <Option value="200" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="p" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="217" name="component_pos_x" type="double"/>
+      <Option value="219" name="component_pos_y" type="double"/>
+      <Option value="90" name="component_width" type="double"/>
+      <Option value="p" name="name" type="QString"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+    </Option>
+    <Option name="reclassification_table" type="Map">
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="" name="component_description" type="QString"/>
+        <Option value="60" name="component_height" type="double"/>
+        <Option value="1005" name="component_pos_x" type="double"/>
+        <Option value="464" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="reclassification_table" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="657" name="component_pos_x" type="double"/>
+      <Option value="484" name="component_pos_y" type="double"/>
+      <Option value="200" name="component_width" type="double"/>
+      <Option value="reclassification_table" name="name" type="QString"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+    </Option>
+    <Option name="s" type="Map">
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="Sunshine" name="component_description" type="QString"/>
+        <Option value="30" name="component_height" type="double"/>
+        <Option value="367" name="component_pos_x" type="double"/>
+        <Option value="244" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="s" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="217" name="component_pos_x" type="double"/>
+      <Option value="254" name="component_pos_y" type="double"/>
+      <Option value="90" name="component_width" type="double"/>
+      <Option value="s" name="name" type="QString"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+    </Option>
+    <Option name="w" type="Map">
+      <Option value="" name="color" type="QString"/>
+      <Option name="comment" type="Map">
+        <Option value="" name="color" type="QString"/>
+        <Option value="Wind speed" name="component_description" type="QString"/>
+        <Option value="30" name="component_height" type="double"/>
+        <Option value="367" name="component_pos_x" type="double"/>
+        <Option value="290" name="component_pos_y" type="double"/>
+        <Option value="100" name="component_width" type="double"/>
+        <Option value="true" name="outputs_collapsed" type="bool"/>
+        <Option value="true" name="parameters_collapsed" type="bool"/>
+      </Option>
+      <Option value="w" name="component_description" type="QString"/>
+      <Option value="30" name="component_height" type="double"/>
+      <Option value="217" name="component_pos_x" type="double"/>
+      <Option value="294" name="component_pos_y" type="double"/>
+      <Option value="90" name="component_width" type="double"/>
+      <Option value="w" name="name" type="QString"/>
+      <Option value="true" name="outputs_collapsed" type="bool"/>
+      <Option value="true" name="parameters_collapsed" type="bool"/>
+    </Option>
+  </Option>
+</Option>
